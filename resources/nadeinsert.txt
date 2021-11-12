@@ -1,0 +1,13 @@
+/////////////////////////////////////////
+*nadetype* //// (smoke/flash/he/molotov)
+*nadeposition* //// (window/bsite/nade1)
+*nadeteam* //// (T and CT only)
+*nademap* //// (dust2,mirage,inferno,overpass,aztec,vertigo,nuke preferred, but use other maps with caution)
+*nadeURL* //// (MUST BE AN IMBEDDED VIDEO THAT AUTOPLAYS WHEN OPENED ON WEB BROWSER. CAN ALSO BE IMAGE OF LINEUP.)
+
+FORMAT LIKE THIS (do not include the *)
+MAKE SURE YOU INCLUDE ALL 5 ITEMS OR BLU WILL CRASH
+*nadetype*,*nadeposition*,*nadeteam*,*nademap*,*nadeURL*
+*nadetype*,*nadeposition*,*nadeteam*,*nademap*,*nadeURL*
+*nadetype*,*nadeposition*,*nadeteam*,*nademap*,*nadeURL*
+/////////////////////////////////////////
