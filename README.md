@@ -20,3 +20,15 @@ Trying to be adventurous and use environments and resources we didn't have exper
 
 ## What's next for Smart Blu
 I'd love to add more features related to the CS Esports scene, as well as add functionality for other games past CS:GO. I think the idea of a desk assistant specifically for gaming is a really interesting idea that I would love to expand further on.
+
+## Commands Include - 
+How do I ____ _____ - Shows grenade Lineup
+show transfers - Shows player transfers that have happened today
+open ____ on twitch - opens a streamers stream on twitch
+add my grenades - adds any grenades kept in text file
+set map - sets the map the user is currently playing on.
+set side - sets the team the user is currently playing on.
+close - will close any video or picture being showed on screen.
+does ______ play today? - returns if a certain team plays a game that day, and at what time
+what time is it? - returns the time.
+
