@@ -1,6 +1,6 @@
-## This Won 2nd Overall at Liquid Hacks 2021 :D
+## This Won 2nd Overall at Liquid Hacks 2.0 :D
 
-
+## https://liquidhacks2021.devpost.com/
 
 ## Inspiration
 The inspiration for Smart Blu came from a lack of quick access to utility usage tips in Counter-Strike. To new players, it can seem daunting to memorize dozens of lineups for grenades. We solve this by giving easy access to a database of grenade lineup references, accessible enough to be from right on the fly, whether it be for practice or mid-game.
